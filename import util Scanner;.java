@@ -8,5 +8,7 @@ public class program{
     
     //prompt user to input security clearence
     System.out.println("INPUT PASSWORD")
+
+    String userInput = scanner.nextLine();
     }
 }
