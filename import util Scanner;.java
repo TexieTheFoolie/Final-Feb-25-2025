@@ -10,7 +10,7 @@ public class program{
     System.out.println("INPUT PASSWORD")
 
     String userInput = scanner.nextLine();
-    System.out.println("hopefully this works");
+    System.out.println("hopefully this works!");
     System.out.println("YOU INPUT - " + userInput);
     }
 }
